@@ -1,2 +1,0 @@
-# firstGithub
-project for OpenSource
