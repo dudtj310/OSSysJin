@@ -1,2 +1,0 @@
-# OSSysJin
-eclipse_JinYoungSeo
